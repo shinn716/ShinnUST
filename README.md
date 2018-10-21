@@ -17,11 +17,11 @@ Touch System base on Hokuyo UST-10LX (For Wall and Floor)
 ```
 
 ## Suggest tool kit
-1. Fast change ip tool. 
+1. Fast change ip tool.  
 https://sourceforge.net/projects/simpleipconfig/  
-2. Can check range of laser scanner, and each setp of distances. 
+2. Can check range of laser scanner, and each setp of distances.  
 https://sourceforge.net/p/urgnetwork/wiki/urg_viewer_jp/  
-3. This tool can change UST ip.
+3. This tool can change UST ip.  
 http://support.robotis.com/en/product/thormang3/more_informations/lidar_ip_setting.htm  
   
 Thanks Obushi for inspire me.  
